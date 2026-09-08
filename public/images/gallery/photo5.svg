@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <rect width="500" height="500" fill="#7A1F2B"/>
+  <circle cx="250" cy="250" r="140" fill="none" stroke="#C9A227" stroke-width="2" opacity="0.5"/>
+  <circle cx="250" cy="250" r="90" fill="#FFF8ED" opacity="0.12"/>
+  <path d="M250 170c-40 0-70 30-70 75 0 55 70 105 70 105s70-50 70-105c0-45-30-75-70-75z" fill="#C9A227" opacity="0.35"/>
+  <text x="250" y="460" font-family="Georgia, serif" font-size="18" fill="#C9A227" text-anchor="middle" letter-spacing="3">MOMENT 5</text>
+</svg>

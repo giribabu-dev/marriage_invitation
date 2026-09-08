@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3B2924"/>
+      <stop offset="1" stop-color="#7A1F2B"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky)"/>
+  <circle cx="400" cy="140" r="70" fill="#C9A227" opacity="0.18"/>
+  <g fill="#FFF8ED" opacity="0.9">
+    <rect x="120" y="260" width="560" height="180" rx="6"/>
+    <polygon points="120,260 400,150 680,260"/>
+  </g>
+  <rect x="380" y="60" width="40" height="90" fill="#FFF8ED" opacity="0.9"/>
+  <polygon points="360,60 400,20 440,60" fill="#FFF8ED" opacity="0.9"/>
+  <g fill="#7A1F2B">
+    <rect x="160" y="320" width="50" height="120"/>
+    <rect x="240" y="320" width="50" height="120"/>
+    <rect x="510" y="320" width="50" height="120"/>
+    <rect x="590" y="320" width="50" height="120"/>
+    <rect x="370" y="340" width="60" height="100"/>
+  </g>
+  <g stroke="#C9A227" stroke-width="2" fill="none" opacity="0.7">
+    <path d="M120 260h560"/>
+    <path d="M150 300q250 -30 500 0" opacity="0.4"/>
+  </g>
+  <text x="400" y="470" font-family="Georgia, serif" font-size="22" fill="#C9A227" text-anchor="middle" letter-spacing="4">VENUE</text>
+</svg>
